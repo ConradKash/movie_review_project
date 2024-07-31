@@ -1,11 +1,4 @@
 
-
-* [Beginner DE Project - Batch Edition](#beginner-de-project---batch-edition)
-    * [Run Data Pipeline](#run-data-pipeline)
-        * [Run locally](#run-locally)
-    * [Architecture](#architecture)
-
-
 ## Run Data Pipeline
 
 Code available at **[movie_review_project](https://github.com/ConradKash/movie_review_project)** repository.
